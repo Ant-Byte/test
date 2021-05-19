@@ -1,0 +1,3 @@
+This is a plain text file.
+We can update this document and keep track of who has made changes.
+Images that will be included in this document can be named here but not inserted here.  Instead the image can be uploaded as a separate file.
